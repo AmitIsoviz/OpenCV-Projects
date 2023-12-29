@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenCVCourse-.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  License Plate Detector.cpp
+C:\Users\thxu2\source\repos\OpenCVCourse-\OpenCVCourse-\License Plate Detector.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCVCourse-.vcxproj -> C:\Users\thxu2\source\repos\OpenCVCourse-\x64\Debug\OpenCV.exe
